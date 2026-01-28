@@ -1,0 +1,13 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class_(W177)"
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class"
+
+generations:
+  - name: "Fourth Generation (W177)"
+    start_year: 2018
+    end_year: present
+    platform: "MFA2"
+    description: "The Mercedes-Benz A-Class (W177) is the fourth and current generation of the A-Class range. The A-220 is a specific trim level featuring a 1,991cc turbocharged four-cylinder engine (M260 DE20 LA) producing 190 hp at 5,500 rpm and 300 Nm of torque from 1,800-4,000 rpm. Available with front-wheel drive or 4MATIC all-wheel drive, paired with a 7-speed automatic 7G-DCT transmission. The A-220 achieved a 0-100 km/h time of 6.9 seconds."
+    body_styles:
+      - "5-door hatchback (W177)"
+      - "4-door sedan (V177)"
